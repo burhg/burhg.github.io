@@ -21,4 +21,4 @@ All AI analysis is done locally. The communication module is open source, thus y
 Opting in to our *assistance program* will add a lot of functionality to the panic button. Data (you decide exactly what) about what triggered the alarm will be sent to our trained team, who will dispatch help with lightning speed. If we can see that you are in serious danger, medical teams and extra security units can be detached by us with confidence.
 
 ## Robust
-The system requires no internet connection to work, is not hampered by radio frequency interference, and has a built in UPS.
+The system requires no internet connection for the alarm to work, is not hampered by radio frequency interference, and has a built in UPS.
